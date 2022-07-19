@@ -1,4 +1,4 @@
-# drop-menu-css-games
+# dropdown-menu-css-games
 Инструменты:
 - HTML, CSS
 
